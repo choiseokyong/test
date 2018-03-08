@@ -1,3 +1,5 @@
 test ÆÄÀÏ
 line 1
 linr 2
+line 3
+line 4
